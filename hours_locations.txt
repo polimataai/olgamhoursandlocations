@@ -1,0 +1,102 @@
+{
+    "HOWARD_BEACH_QUEENS": {
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "Address": "78-15 Linden Blvd, Queens, NY 11414"
+    },
+    "JAMAICA_QUEENS": {
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "Address": "162-11 Jamaica Ave, Jamaica, NY 11432"
+    },
+    "FLATBUSH_BROOKLYN": {
+        "Monday": "8:00 AM - 2:00 PM",
+        "Tuesday": "8:00 AM - 2:00 PM",
+        "Wednesday": "8:00 AM - 2:00 PM",
+        "Thursday": "8:00 AM - 2:00 PM",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "8:00 AM - 2:00 PM",
+        "Address": "1584 Flatbush Ave Brooklyn, NY 11210"
+    },
+    "PARKCHESTER_BRONX": {
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "Address": "2028 White Plains Rd, Bronx, NY 10462"
+    },
+    "MELROSE_BRONX": {
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 7:30 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "Address": "2914 3rd Ave, Bronx, NY 10455"
+    },
+    "CLINTON_HILL_BROOKLYN": {
+        "Monday": "6:00 AM - 7:30 PM",
+        "Tuesday": "6:00 AM - 7:30 PM",
+        "Wednesday": "6:00 AM - 7:30 PM",
+        "Thursday": "6:00 AM - 7:30 PM",
+        "Friday": "6:00 AM - 3:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:30 PM",
+        "Address": "1104 Fulton Street, Brooklyn, NY 11238"
+    },
+    "BROWNSVILLE_BROOKLYN": {
+        "Monday": "6:00 AM - 2:00 PM",
+        "Tuesday": "6:00 AM - 2:00 PM",
+        "Wednesday": "6:00 AM - 2:00 PM",
+        "Thursday": "6:00 AM - 2:00 PM",
+        "Friday": "6:00 AM - 2:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 2:00 PM",
+        "Address": "1539 Pitkin Ave, Brooklyn, NY 11212"
+    },
+    "FORT_PIERCE_FLORIDA": {
+        "Monday": "6:00 AM - 7:00 PM",
+        "Tuesday": "6:00 AM - 7:00 PM",
+        "Wednesday": "6:00 AM - 7:00 PM",
+        "Thursday": "6:00 AM - 7:00 PM",
+        "Friday": "6:00 AM - 6:00 PM",
+        "Saturday": "CLOSED",
+        "Sunday": "6:00 AM - 7:00 PM",
+        "Address": "5216 Okeechobee Rd, Fort Pierce, FL 34947"
+    },
+    "FORDHAM_BRONX": {
+        "Monday": "CLOSED",
+        "Tuesday": "CLOSED",
+        "Wednesday": "6:00 AM - 12:00 PM",
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Address": "2510 Grand Concourse Bronx NY 10458"
+    },
+    "EAST_HARLEM": {
+        "Monday": "6:00 AM - 12:00 PM",
+        "Tuesday": "CLOSED",
+        "Wednesday": "CLOSED",
+        "Thursday": "CLOSED",
+        "Friday": "CLOSED",
+        "Saturday": "CLOSED",
+        "Sunday": "CLOSED",
+        "Address": "127 E 125th St New York, NY 10035"
+    }
+}
