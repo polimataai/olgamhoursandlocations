@@ -1,5 +1,4 @@
 {
-  "hours": {
     "HOWARD_BEACH_QUEENS": {
         "Monday": "6:00 AM - 2:00 PM",
         "Tuesday": "6:00 AM - 2:00 PM",
@@ -100,5 +99,4 @@
         "Sunday": "CLOSED",
         "Address": "127 E 125th St New York, NY 10035"
     }
-  }
 }
